@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692923648020",
+    "firebase_url": "https://testshop-5a006.firebaseio.com",
+    "project_id": "testshop-5a006",
+    "storage_bucket": "testshop-5a006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692923648020:android:c342a559b5c14898fa7f01",
+        "android_client_info": {
+          "package_name": "com.artribr.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692923648020-snrt6l9aofgs8ft2f090c8jfab2rnsev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artribr.shop",
+            "certificate_hash": "8542259a1ce1c46d404374aa8fbefe769e4a73b0"
+          }
+        },
+        {
+          "client_id": "692923648020-l4n9h2dka57b7l46ge4pdron23mih04s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo5dM4mFvoPRHr9fwtz4Qt9n7biNO3LIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692923648020-l4n9h2dka57b7l46ge4pdron23mih04s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
