@@ -104,7 +104,6 @@ class MainActivity : AppCompatActivity() {
 
             return FunctionHolder(view)
         }
-
         override fun getItemCount(): Int {
             return functions.size
 
@@ -127,7 +126,7 @@ class MainActivity : AppCompatActivity() {
             2 -> startActivity(Intent(this, ParkingActivity::class.java))
 
             5 -> startActivity(Intent(this, MovieActivity::class.java))
-            
+
         }
     }
 
