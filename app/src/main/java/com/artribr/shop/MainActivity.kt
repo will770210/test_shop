@@ -36,7 +36,8 @@ class MainActivity : AppCompatActivity() {
         "Download coupons",
         "News",
         "Movies",
-        "Maps"
+        "Maps",
+        "Bus"
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -126,6 +127,8 @@ class MainActivity : AppCompatActivity() {
             2 -> startActivity(Intent(this, ParkingActivity::class.java))
 
             5 -> startActivity(Intent(this, MovieActivity::class.java))
+
+            7 -> startActivity(Intent(this, BusActivity::class.java))
 
         }
     }
